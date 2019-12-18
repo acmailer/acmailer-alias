@@ -5,10 +5,5 @@
     "license": "MIT",
     "require": {
         "acelaya/zf2-acmailer": "self.version"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "x.x.x"
-        }
     }
 }
