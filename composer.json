@@ -2,8 +2,13 @@
     "name": "acelaya/acmailer",
     "description": "Mail sending module for Laminas and Mezzio applications",
     "type": "metapackage",
+    "license": "MIT",
     "require": {
         "acelaya/zf2-acmailer": "self.version"
     },
-    "license": "MIT"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "x.x.x"
+        }
+    }
 }
