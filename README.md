@@ -2,7 +2,7 @@
 
 This is just a helper package designed to alias the `acelaya/acmailer` package name to `acelaya/zf2-acmailer` in packagist.
 
-You can go to [AcMailer](https://github.com/acelaya/acmailer) to see the repository containing the actual code.
+You can go to [AcMailer](https://github.com/acmailer/acmailer) to see the repository containing the actual code.
 
 ## Why
 
