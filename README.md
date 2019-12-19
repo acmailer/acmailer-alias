@@ -8,7 +8,7 @@ You can go to [AcMailer](https://github.com/acelaya/acmailer) to see the reposit
 
 Due to some security restrictions of composer and packagist, it is not possible to rename a package that has already been published.
 
-AcMailer was first released a lot of years ago, in 2014, when Zend Framework 2 was the latest version of what's today known as [Laminas](https://getlaminas.org/).
+AcMailer was first released several years ago, in 2012, when Zend Framework 2 was the latest version of what's today known as [Laminas](https://getlaminas.org/).
 
 Since it was initially designed as a ZF2 module, I named it `zf2-acmailer`. It was obviously a bad idea.
 
